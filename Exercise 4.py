@@ -47,4 +47,4 @@ def main():
         print(f"Your bracket: {bracket}")
         print(f"Estimated tax: ${estimated_tax:,.2f}")
 
-
+main()
