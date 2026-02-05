@@ -19,7 +19,3 @@ Exercise 4: Tax Bracket Determiner
 Exercise 5: Product Category Matcher
 - Prompts user for a product
 - Returns a stripped product name and the product category
-
-Bonus: Integrated Decision Tool
-- Prompts for business revenue, cost, and category
-- Calculates profit and suggests investment strategy based on it
